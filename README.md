@@ -32,4 +32,4 @@ The **JAVA PROJECTS** view in VS Code allows you to manage your dependencies. Mo
 
 ---
 
-This project is **just a simple example** for the **OOP in Java** course. Good luck with your studies and coding!
+This project is **just a simple example** for the **OOP in Java** course!
